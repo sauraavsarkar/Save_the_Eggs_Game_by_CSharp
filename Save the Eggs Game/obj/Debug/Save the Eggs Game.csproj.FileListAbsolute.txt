@@ -1,0 +1,22 @@
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe.config
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.pdb
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Form1.resources
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.exe
+C:\Users\HP\OneDrive\Desktop\OOP2 Project Game\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.pdb
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe.config
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.exe
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\bin\Debug\Save the Eggs Game.pdb
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Form1.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.FighterJetShootingGame.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save_the_Eggs_Game.Properties.Resources.resources
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.exe
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\Save the Eggs Game\Save the Eggs Game\obj\Debug\Save the Eggs Game.pdb
